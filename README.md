@@ -1,5 +1,5 @@
 # Rules And Scripts
-
+## 转载自：https://github.com/blackmatrix7/ios_rule_script
 ## 前言
 
 各平台的分流规则、复写规则及自动化脚本。
